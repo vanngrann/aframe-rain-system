@@ -21,6 +21,12 @@ The system consists of a single A-Frame component called `rain` that manages bot
 
 ## Component Usage
 
+Add the CDN script to your file:
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/vanngrann/aframe-rain-system@v1.0.0/scripts.js"></script>
+```
+
 Add the component to any entity in your scene:
 
 ```html
